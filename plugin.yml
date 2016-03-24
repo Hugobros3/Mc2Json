@@ -1,0 +1,16 @@
+ #Copyright 2014 XolioWare Interactive
+ 
+ name: Mc2Json
+ version: 1.0
+ description: omg it make blocks
+ 
+ author: Sir_Gobrosse
+ website: http://xol.io
+ 
+ main: io.xol.mc2json.Mc2JsonBukkit
+ 
+ commands:
+   mc2json:
+     description: MC2JSON
+     usage: |
+       olaf lemme
